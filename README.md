@@ -3,7 +3,7 @@
 # 
 ❗**HIGH DEMAND NEEDED FOR THE PROJECT TO BE FULLY DONE**❗<br />
 Under this text, you can **get started** learn **how to program** in Quantum, and download the source. <br />
-click [here](https://seba495g.github.io/Quantum-Web/download.html) to download the source <br />
+click [here](https://fries-byte.github.io/QuantumWEB/download.html) to download the source <br />
 Quantum is made with JavaScript and TypeScript <br />
 Quantum originaly would've been a tool for Chromebooks <br />
 if you need/want the background logo of C/C++, you can download it in the **Packages** section <br />
@@ -27,11 +27,11 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
      • webopen >> text, it will open a new tab with the url after the '>', remember https:// <br />
      • if statement, this is how it works, `if variable == value then run code` <br />
      • variable, this is how it works, `int variable = value` or `int variable = q:in >> text` <br />
-     or go to [Quantum Course](https://seba495g.github.io/Quantum-Web/course.html)
+     or go to [Quantum Course](https://fries-byte.github.io/QuantumWEB/course.html)
    
    **How to setup**<br />
      • you dont need a JavaScript compiler or anything<br />
-     • you can just use [Quantum compiler](https://seba495g.github.io/Quantum-Web/compiler.html)<br />
+     • you can just use [Quantum compiler](https://fries-byte.github.io/QuantumWEB/compiler.html)<br />
    
   **How to use**<br />
      • Go to the official website, go to <br />
