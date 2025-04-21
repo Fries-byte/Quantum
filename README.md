@@ -1,7 +1,7 @@
 ![392877068-bad65f32-c9fa-48f6-a669-a59897a00e2c__1_-removebg-preview](https://github.com/user-attachments/assets/c2f7215d-9ce4-40ce-9190-ffd018e3a316)
 
 # 
-❗**HIGH DEMAND NEEDED FOR THE PROJECT TO BE FULLY DONE (project is no longer being worked on)**❗<br />
+❗**HIGH DEMAND NEEDED FOR THE PROJECT TO BE FULLY DONE (project is no longer being worked on and will not be edited)**❗<br />
 Under this text, you can **get started** learn **how to program** in Quantum, and download the source. <br />
 click [here](https://fries-byte.github.io/QuantumWEB/download.html) to download the source <br />
 Quantum is made with JavaScript and TypeScript <br />
